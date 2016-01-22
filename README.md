@@ -8,15 +8,11 @@ Turing's Halting Problem:
 
 -------
 
-> This is the Wiki myself and fellow students built in a previous course. You are welcome to contribute any resources you think are relevant. -NotAlien
 # Table of contents
 
 **Lectures section** - useful resources for every lecture. </br>
 The resources should be in the order they are covered in the lecture.
 Includes material both for the absolute *beginner* struggling with the new topics and for the *experienced* programmer seeking new insights.
-
-> Weeks are in a descending order .
-
 
   1. [Week 7](#week-7)
      
