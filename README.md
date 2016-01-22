@@ -6,63 +6,9 @@ Turing's Halting Problem:
 2. [An article on the Scientific American on the Halting Problem](http://www.scientificamerican.com/article/why-is-turings-halting-pr/)
 3. [Interesting question on the topic from Stack Exchange site](http://cs.stackexchange.com/questions/32845/why-really-is-the-halting-problem-important)
 
--------
 
-# Table of contents
-
-**Lectures section** - useful resources for every lecture. </br>
-The resources should be in the order they are covered in the lecture.
-Includes material both for the absolute *beginner* struggling with the new topics and for the *experienced* programmer seeking new insights.
-
-  1. [Week 7](#week-7)
-     
-    1. [Week 7 - Lecture 13](#week-7-lecture-13)
-    
-  2. [Week 6](#week-6)
-  
-    1. [Week 6 - Lecture 12](#week-6-lecture-12)
-     
-    2. [Week 6 - Lecture 11](#week-6-lecture-11)
-      
-  3. [Week 5](#week-5)
-  
-    1. [Week 5 - Lecture 10](#week-5-lecture-10)
-     
-    2. [Week 5 - Lecture 9](#week-5-lecture-9)
-   
-  4. [Week 4](#week-4)
-  
-    1. [Week 4 - Lecture 8](#week-4-lecture-8)
-     
-    2. [Week 4 - Lecture 7](#week-4-lecture-7)
-  
-  5. [Week 3](#week-3)
-  
-    1. [Week 3 - Lecture 6](#week-3-lecture-6)
-     
-    2. [Week 3 - Lecture 5](#week-3-lecture-5)
-
-  6. [Week 2](#week-2)
-  
-    1. [Week 2 - Lecture 4](#week-2-lecture-4)
-     
-    2. [Week 2 - Lecture 3](#week-2-lecture-3)
-
- 7. [Week 1](#week-1)
-
-    1. [Week 1 - Lecture 2](#week-1-lecture-2)
-      
-    2. [Week 1 - Lecture 1](#week-1-lecture-1)
-    
-    
-  
-**[Interesting and Useful Links section](#interesting-and-useful-links)**
-
-
-
----
 #Lectures
----
+
 
 # Week 7
 
