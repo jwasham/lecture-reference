@@ -324,9 +324,9 @@ Short list for short lecture.
 
 8. [Modular arithmetic](https://www.youtube.com/watch?v=SR3oLCYoh-I) - Video explaining the modulo concept. It can a challenging idea to understand at first, but it holds great power.
 
-9. [Order of evaluation](https://docs.python.org/2/reference/expressions.html#operator-precedence) - Table lists the order of operation (precedence rules) for Python operators. Including advanced topics that will be helpfull later in the course.
+9. [Order of evaluation](https://docs.python.org/2/reference/expressions.html#operator-precedence) - Table lists the order of operation (precedence rules) for Python operators. Including advanced topics that will be helpful later in the course.
 
-10. [Python strings](http://www.tutorialspoint.com/python/python_strings.htm) - A guide to using strings in python. Contains advanced material that may be usefull later in the course.
+10. [Python strings](http://www.tutorialspoint.com/python/python_strings.htm) - A guide to using strings in python. Contains advanced material that may be useful later in the course.
 
 11. [Asking questions](http://learnpythonthehardway.org/book/ex11.html) - Beginner guide for using raw_input and some good Q&A in the comment section.
 
