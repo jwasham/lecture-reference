@@ -423,6 +423,8 @@ Short list for short lecture.
 
 * [Cheatset on Python by Laurent Pointal] (http://www.macs.hw.ac.uk/~hwloidl/Courses/F21SC/mementopython3-english.pdf)
 
+* [Python Tutorial by Scaler Topics](https://www.scaler.com/topics/python) - This Python Tutorial will guide you to learn Python easily from beginner to advanced level. You can learn Python programming step-by-step, good for beginners.
+
 
 
 #### Other useful links.
